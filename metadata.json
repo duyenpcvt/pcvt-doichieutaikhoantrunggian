@@ -1,0 +1,6 @@
+{
+  "name": "ReconcileMaster",
+  "description": "Ứng dụng đối chiếu tài khoản trung gian từ Google Sheets với các tính năng lọc và tổng quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
